@@ -1,0 +1,11 @@
+# Font style metadata
+name = "STIX Two Math"
+
+# Optional Google font URL
+google_fonts = "family=STIX+Two+Math"
+
+# Font families
+heading_font = "STIX Two Math serif"
+body_font = "STIX Two Math serif"
+nav_font = "STIX Two Math serif"
+mono_font = "STIX Two Math serif"

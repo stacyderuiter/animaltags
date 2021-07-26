@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/home/</link>
+      <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Academic</title>
+      <link>/home/</link>
+    </image>
+    
+    <item>
+      <title>Animal Tag Tools</title>
+      <link>/home/my_section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/my_section/</guid>
+      <description>&lt;p&gt;Here you can find information, help &amp;amp; support for the Animal Tags Toolbox. The Animal Tags Toolbox is a set of functions created for Tag Users by Tag Developers &amp;amp; Users and designed to run in Matlab, Octave &amp;amp; R. To navigate through the website, follow the links in the menubar or visit our Navigation Page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Animal Tag Tools!</title>
+      <link>/home/brief-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/brief-intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biography</title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
