@@ -1,12 +1,14 @@
 ---
 title: The Animal Tags Tools Project
-summary: Here we tell you all you need to know about the Tags Tools Project
+summary: Find out all you need to know about the Tags Tools Project
 date: "2021-07-09T12:06:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+
+weight: 10
 ---
 ![tag on a whale](tagonwhale.jpg "caption")
 
