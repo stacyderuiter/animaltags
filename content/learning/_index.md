@@ -3,7 +3,7 @@
 title: Vignettes
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Learning
+linktitle: 
 
 # Page summary for search engines.
 summary: Here, you can find a detailed list of vignettes 
