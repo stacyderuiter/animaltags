@@ -11,6 +11,15 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+authors:
+ - SDR
+ - MJ
+ - CH
+ - DS
+ - LMML
+ - RS
+ - TM
+ - YJO
 design:
   # Show user's social networking links? (true/false)
   show_social: false

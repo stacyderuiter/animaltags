@@ -13,6 +13,5 @@ title: David Sweeney
 active: true
 user_groups:
     - Researchers
-authors: DS
 ---
 David Sweeney is an undergraduate at Calvin University, working toward a bachelor's degree in biology. After college, he intends to pursue a Ph.D. in marine science. He is grateful to be part of the Animal Tag Tools team, on which he has acquired valuable skills and experiences he intends to carry into graduate school and his future career.
