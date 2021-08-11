@@ -19,4 +19,7 @@ main:
   - name: Courses
     url: "courses/"
     weight: 50
+  - name: Tag Team
+    url: "tag-team/"
+    weight: 60
 
